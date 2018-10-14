@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Priya Pareek/Desktop/lib/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priya Pareek/Desktop/lib/bcprov-jdk16-140.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priya Pareek/Desktop/lib/bouncycastle-jce-jdk13-112.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priya Pareek/Desktop/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priya Pareek/Desktop/lib/cos.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priya Pareek/Desktop/lib/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priya Pareek/Desktop/lib/jmf-2.1.1e.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priya Pareek/Desktop/lib/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priya Pareek/Desktop/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priya Pareek/Desktop/lib/multipartrequest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priya Pareek/Desktop/lib/mysql-connector-java-5.1.5-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priya Pareek/Desktop/lib/pager-taglib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priya Pareek/Desktop/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priya Pareek/Desktop/lib/stp_RandomWalk2D.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
